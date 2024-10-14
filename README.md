@@ -1,1 +1,1 @@
-These are 3 codealpha internship program tasks for web development course.
+This is a person protfolio page made by HTML,CSS and Javascript.
